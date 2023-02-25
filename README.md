@@ -10,7 +10,7 @@ Thank you all
     - Login to your GitHub Account
     - **Fork repository "devops-fully-automated-infra" (https://github.com/cvamsikrishna11/devops-fully-automated-infra.git) & name it "devops-fully-automated-infra"**
     - Clone your newly created repo to your local
-
+time
 2) ###### Jenkins
     - Create an **Amazon Linux 2 VM** instance and call it "Jenkins"
     - Instance type: t2.large
